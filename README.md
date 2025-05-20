@@ -64,3 +64,9 @@ This Power BI project provides a comprehensive analysis of housing market trends
 3. Use filters in the **"House Type Analysis"** tab to explore insights.
 4. Cross-filter by region, sales type, or city for localized trends.
 
+## 📊 Live Dashboard Access
+
+Explore the interactive Power BI dashboard hosted online via Microsoft Power BI Service:  
+🔗 [Click to view the Housing Market Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjYzNjI1MmMtMDNiZS00ZGU3LThkYTktNWY0NTA5Nzg3NjA0IiwidCI6IjYzYmYxMDdiLWNiNmYtNDE3My04YzFjLTE0MDZiYjVjYjc5NCJ9)
+
+This dashboard provides a visual analysis of Denmark's housing market across regions and sales types. It includes KPIs, interactive filters, price comparisons, and growth trends—designed for both real estate professionals and data-driven policy makers.
