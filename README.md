@@ -60,7 +60,7 @@ This Power BI project provides a comprehensive analysis of housing market trends
 ## 📝 How to Use
 
 1. Clone/download this repo.
-2. Open `Housing 2.pbix` in **Power BI Desktop**.
+2. Open `Housing.pbix` in **Power BI Desktop**.
 3. Use filters in the **"House Type Analysis"** tab to explore insights.
 4. Cross-filter by region, sales type, or city for localized trends.
 
