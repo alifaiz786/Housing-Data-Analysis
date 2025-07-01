@@ -1,42 +1,42 @@
 # Housing-Data-Analysis
-# 🏡 Housing Market Dashboard (Power BI Project)
+# Housing Market Dashboard (Power BI Project)
 
 This Power BI project provides a comprehensive analysis of housing market trends in Denmark. Using a dataset of 100,000 real estate transactions, the report delivers actionable insights into regional pricing trends, sales performance, and house-type metrics — supporting smarter property decisions and policy evaluation.
 
 ---
 
-## 📂 Project Structure
+# Project Structure
 
 
 ---
 
-## 📊 Report Pages & Visualizations
+# Report Pages & Visualizations
 
-### 1. **House Market Overview**
-- 📌 **Median Sales Price Change by Region** – Bar chart showing price trends by region (e.g., Jutland, Zealand)
-- 🏠 **Units Sold & 12-Month Sales** – KPIs to summarize market volume
-- 📈 **Offer Price vs Purchase Price** – Scatter plot showing negotiation patterns
-- 📉 **YoY Sales Growth by Sales Type** – Line & area chart capturing yearly change across sales channels
-
----
-
-### 2. **Sales Performance**
-- 📍 **Sales by Region** – Bar chart highlighting total volume in billions by region
-- 📌 **Key Influencers** – AI visual showing what factors (like age) influence price drops
-- 🧾 **Sales Table** – Detailed breakdown by Year, Quarter, and Purchase Price
-- 📊 **Offer-to-SQM Ratio by Sales Type** – Measures value per square meter by sales channel
-- 🔵 **Average Price per SQM by Region** – Donut chart for price efficiency analysis
+1. House Market Overview
+- Median Sales Price Change by Region – Bar chart showing price trends by region (e.g., Jutland, Zealand)
+- Units Sold & 12-Month Sales – KPIs to summarize market volume
+- Offer Price vs Purchase Price – Scatter plot showing negotiation patterns
+- YoY Sales Growth by Sales Type – Line & area chart capturing yearly change across sales channels
 
 ---
 
-### 3. **House Type Analysis**
-- 🏘 **Avg Offer vs Purchase Price by House Type** – Side-by-side bar chart comparing prices
-- 📉 **Avg Inflation / Interest / Yield Rates** – Economic context for each house type
-- 📏 **Avg SQM / SQM Price by House Type** – Combined bar-line chart visualizing cost per unit area
+2. Sales Performance
+- Sales by Region – Bar chart highlighting total volume in billions by region
+- Key Influencers – AI visual showing what factors (like age) influence price drops
+- Sales Table – Detailed breakdown by Year, Quarter, and Purchase Price
+- Offer-to-SQM Ratio by Sales Type – Measures value per square meter by sales channel
+- Average Price per SQM by Region – Donut chart for price efficiency analysis
 
 ---
 
-## 🧠 Key Metrics Used
+3. House Type Analysis
+- Avg Offer vs Purchase Price by House Type – Side-by-side bar chart comparing prices
+- Avg Inflation / Interest / Yield Rates – Economic context for each house type
+- Avg SQM / SQM Price by House Type – Combined bar-line chart visualizing cost per unit area
+
+---
+
+# Key Metrics Used
 
 - `purchase_price`: Final price paid for the house
 - `offer_price` (derived): Implied from % difference
@@ -47,26 +47,26 @@ This Power BI project provides a comprehensive analysis of housing market trends
 
 ---
 
-## 🛠 Tools & Skills Demonstrated
+# Tools & Skills Demonstrated
 
-- **Power BI Desktop**: Data modeling, DAX measures, report layout
-- **Data Cleaning**: Handling missing `city`, `yield`, and `inflation` values
-- **KPI Visuals**: Sales totals, averages, and growth
-- **Custom Filters**: Dynamic filtering by `area`, `city`, `region`, `sales_type`
-- **Business Storytelling**: Visually communicating negotiation patterns, market shifts, and affordability
+- Power BI Desktop: Data modeling, DAX measures, report layout
+- Data Cleaning: Handling missing `city`, `yield`, and `inflation` values
+- KPI Visuals: Sales totals, averages, and growth
+- Custom Filters: Dynamic filtering by `area`, `city`, `region`, `sales_type`
+- Business Storytelling: Visually communicating negotiation patterns, market shifts, and affordability
 
 ---
 
-## 📝 How to Use
+# How to Use
 
 1. Clone/download this repo.
-2. Open `Housing.pbix` in **Power BI Desktop**.
-3. Use filters in the **"House Type Analysis"** tab to explore insights.
+2. Open `Housing.pbix` in Power BI Desktop.
+3. Use filters in the "House Type Analysis" tab to explore insights.
 4. Cross-filter by region, sales type, or city for localized trends.
 
-## 📊 Live Dashboard Access
+# Live Dashboard Access
 
 Explore the interactive Power BI dashboard hosted online via Microsoft Power BI Service:  
-🔗 [Click to view the Housing Market Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjYzNjI1MmMtMDNiZS00ZGU3LThkYTktNWY0NTA5Nzg3NjA0IiwidCI6IjYzYmYxMDdiLWNiNmYtNDE3My04YzFjLTE0MDZiYjVjYjc5NCJ9)
+https://app.powerbi.com/view?r=eyJrIjoiNjYzNjI1MmMtMDNiZS00ZGU3LThkYTktNWY0NTA5Nzg3NjA0IiwidCI6IjYzYmYxMDdiLWNiNmYtNDE3My04YzFjLTE0MDZiYjVjYjc5NCJ9
 
 This dashboard provides a visual analysis of Denmark's housing market across regions and sales types. It includes KPIs, interactive filters, price comparisons, and growth trends—designed for both real estate professionals and data-driven policy makers.
